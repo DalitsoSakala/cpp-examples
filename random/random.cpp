@@ -11,6 +11,7 @@
 // 
 // Usage
 // -----
+// Always call `srand(SEED)` once before calling `mk_rand`.
 // See main.cpp
 // ===================================================
 // @Author - Dalitso Sakala <contact@dalitsosakala.com>
