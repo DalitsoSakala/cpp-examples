@@ -24,7 +24,7 @@
 // Access the most recently generated random number
 unsigned short int current_rand=1;
 
-// Generate the randmo number to assign to current_rand
+// Generate the random number to assign to current_rand
 void mk_rand(void){
     current_rand=(short) ((double) rand()/RAND_MAX*MAX_RANDOM) +1;
 }
