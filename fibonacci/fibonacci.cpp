@@ -4,11 +4,11 @@
 // numbers `fib_1` and `fib_2`.
 //
 // The algorithm generates numbers in the order:
-// 0, 1, 2, 3, 5, 8, 13, 21 ...
+// 0, 1, 1, 2, 3, 5, 8, 13, 21 ...
 // 
 // Usage
 // -----
-// Call `mak_fib` to generate the next combination
+// Call `mk_fib` to generate the next combination
 // of numbers to occupy `fib_1` and `fib_2`.
 
 // Refers to an older number in the sequence.
