@@ -1,2 +1,2 @@
 # cpp-examples
-A collection of C++ code examples
+A collection of commonly used scientific C++ code examples
